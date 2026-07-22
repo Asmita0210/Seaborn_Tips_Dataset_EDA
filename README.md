@@ -56,21 +56,21 @@ Here is an overview of the core sections covered in the notebook, along with mar
 * **Q13–Q17:** Histogram tuning (bins 10 vs 50), KDE plots, skewness checks, ECDF analysis, and real-world probability evaluations.  
 <img src="visualisations/Histogram Comparison.png" alt="Histogram Comparison" width="200"/>
 <img src="visualisations/Total Bill KDE by Sex.png" alt="Total Bill KDE by Sex" width="200"/>
-<img src="visualisations/'ECDF of Total Bill.png" alt="ECDF of Total Bill" width="200"/>
+<img src="visualisations/ECDF of Total Bill.png" alt="ECDF of Total Bill" width="200"/>
 
 ---
 
 ### 6. Multivariate Analysis & Advanced Catplot
 * **Q18–Q20:** 2D histograms, KDE contour plots for density, and faceted `catplot` boxes comparing lunch and dinner.  
-<img src="visualisations/'2D Histogram of Total Bill vs Tip.png" alt="2D Histogram of Total Bill vs Tip" width="300"/>
-<img src="visualisations/'Density Contour Plot.png" alt="Density Contour Plot" width="300"/>
-<img src="visualisations/'Lunch vs Dinner Bill Comparison.png" alt="Lunch vs Dinner Bill Comparison" width="600"/>
+<img src="visualisations/2D Histogram of Total Bill vs Tip.png" alt="2D Histogram of Total Bill vs Tip" width="300"/>
+<img src="visualisations/Density Contour Plot.png" alt="Density Contour Plot" width="300"/>
+<img src="visualisations/Lunch vs Dinner Bill Comparison.png" alt="Lunch vs Dinner Bill Comparison" width="600"/>
 
 ---
 
 ### 7. Business Problem & Full EDA Pipeline
 * **Q21 (Business Problem):** Strategic business optimization using supporting plots to maximize restaurant revenue.  
- <img src="visualisations/'Revenue Data.png" alt="Revenue  Data" width="600"/>
+ <img src="visualisations/Revenue Data.png" alt="Revenue  Data" width="600"/>
 
 * **Q22 (Bonus Coding Challenge):** Modularized EDA pipeline function (`analyze_dataset(df)`) combining cleaning, feature engineering, and automated plotting.
 
